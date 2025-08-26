@@ -22,7 +22,7 @@ Keep code modular so analyses can be reproduced end-to-end.
 ---
 
 ### `/output/tables`
-Generated tables, usually in formats like `.csv`, `.tsv`, or `.xlsx`.  
+Generated tables, usually in the format `.csv`.
 - Summaries, descriptive statistics, and model outputs.  
 - Meant for export, reporting, or further analysis.
 
@@ -32,8 +32,6 @@ Generated tables, usually in formats like `.csv`, `.tsv`, or `.xlsx`.
 Figures and visualizations generated from the code in `/src`.  
 - Static images (`.png`, `.jpg`, `.svg`, `.pdf`)  
 - Interactive plots (e.g., `.html`)  
-
-Organize plots by analysis or date if there are many.
 
 ---
 
