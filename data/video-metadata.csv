@@ -1,0 +1,101 @@
+Video #,Date Posted,Duration,Views,Likes,Comments,Hashtags ,Purpose,Themes,Sentiment,Motivations or barriers,Stakeholders,Misinformation? (Y/N),Supported by data? (Y/N) 
+1,6/13/2023,1:27,"361,800","31,100",705,"cultivated meat, 3dbioprinting, cultured meat, ad",Advertising/Informative,"sustainability, animal welfare",Positive,"saving water, energy, reducing greenhouse emissions",Steakholder Foods,N,N
+2,7/13/2023,0:52,"110,700","2,072",162,"vegan, cultivated meat, labgrownmeat, try, plantbased",Entertainment,"vegan/vegetarian, animal welfare, taste",Positive,taste,Vegans,N,N
+3,4/3/2023,1:29,"130,700","17,100",426,"vegetarian, meateater, labgrown, pork, cultivatedmeat",Entertainment/Advertising,"vegan/vegetarian, animal welfare ",Positive,"slaughter-free, taste",Paul Bevan (CEO of Magic Valley),N,N
+4,4/5/2024,0:59,"30,000","1,934",144,"labgrown, tastetesting, cultivated meat, fyp",Entertainment/Advertising,taste,Positive,taste,Upside Foods ,N,N
+5,9/14/2023,1:00,"887,300","59,200","4,062",,Entertainment,"health, sustainability ",Negative,"""not real"" , gut damage, autoimmune disease ",health content creators ,Y,Y
+6,3/14/2024,1:14,,"2,776",376,,News,"politics, economics",Neutral ,"safety, state laws, price","Cattle ranchers, USDA, FDA ",N,N
+7,7/11/2024,1:15,"28,900","2,083",203,"npr, meat, animals, science",News,"taste, animal welfare, economics",Positive,"slaughter-free, taste",Farmers,N,N
+8,9/25/2023,1:09,"158,000","2,188",277,"labgrownmeat, stemresearch, culturedmeat, itsreal, stemtok",Informative,"taste, safety, animal welfare",Positive,"taste, cruelty-free, same meat",,N,N
+9,6/22/2023,1:12,"16,900","1,454",134,,Entertainment ,"safety, animal welfare, vegan",Negative,"immortalized cell lines, cancer","USDA, Bill Gates, vegans",Y,Unclear 
+10,5/7/2024,0:40,"12,600",486,87,"florida, rondesantis, meats, cultivatedmeat",News/Entertainment,"politics, taste",Positive,"taste, ""real"" meat",Ron DeSeSantis,N,N 
+11,7/27/2024,2:56,"61,500","9,908",422,"science, stem, scienceeducation, labgrownmeat, cultivated meat, microbiology",Informative,safety,Neutral ,,microbiologists,N,N
+12,9/7/2022,6:18,"17,700",142,8,,Informative,"sustainability, taste, animal welfare, vegan",Neutral / Positive leaning,,"Primeval Foods, Supermeat",,
+13,3/21/2023,0:18,"3,600",232,19,"cultivatedmeat, labgrownmeat, goodmeat",Informative,"politics, economics",Neutral,,"José Andrés, GOOD Meat",N,N
+14,11/21/2023,0:51,"2,800",106,9,"labgrownmeat, labgrown, labgrownchicken, cellularagriculture, foodsystem, sustainability",Informative,"sustainability, animal welfare",Positive leaning,"ethical, sustainable, slaughter-free",,N,N
+15,7/1/2024,0:48,690,10,1,,Interview,"sustainability, animal welfare",Positive,,Magic Valley Foods ,N,N
+16,9/28/2024,1:05,250,3,0,"cultivatedmeat, foodtech, futureoffood, innovations, meatrevolution, foodsustainability",Interview,economics,Positive,"food technology, bioreactors",Academics,N,N
+17,3/7/2024,0:53,"6,800",613,121,"notforme, culturedmeat, labgrownmeat, nothanks, realfood, safefood, healthyfood, nochemicals",Informative,"taste, sustainability",Negative,"unnatural, worse for environment",,N,Y
+18,7/18/2024,0:53,"18,900",368,37,"meat, labgrownmeat, petfood, foodnews, science, foodstandardsagency",News,"politics, animal welfare",Neutral,,Meatly,,
+19,5/15/2024,0:44,"14,700",374,52,"news, meatalternative, plantbased, florida, alabama ",News,"politics, sustainability",Neutral / Positive leaning,"real meat, better for environment ",Cattle ranchers,N,N
+20,9/10/2024,1:04,640,9,0,"culturedmeat, cellag, cultivatedmeat, labgrownmeat, sustainablediet ",Informative,politics,Neutral / Positive leaning,political barriers ,Jim Pillen (Nebraska governor) ,N,Y
+21,6/28/2023,0:33,"780,000","11,700","1,150","meatalternative, labmeat, labchicken, labgrownmeat, foodnews",Informative,"politics, economics, sustainability, taste",Neutral,"guilt-free meat, price",U.S. adults ,N,N
+22,1/13/2024,0:46,"12,600",858,39,"foodpolicy, gavinwren",News/Informative,politics,Neutral,real meat,"Italy, food policy consultants",N,N
+23,6/28/2024,0:34,720,4,2,"vegan, plantbased, cultivatedmeat, fakemeat, plantbasedmeat ",Entertainment,politics,Neutral,,"Upside Foods, chefs",N,N
+24,2/6/2025,0:54,"15,700",675,31,"itvnews, dog, pet, food ",News,"economics, sustainability, politics",Neutral / Positive leaning,"pet food, environmentally-friendly","Meatly, FSA",N,N
+25,12/6/2022,1:36,"5,100",318,10,"foodpolicy, labgrown, climatechange, gavinwren",Entertainment,economics,Positive,,Mr. Beast,N,N
+26,4/11/2024,0:47,800,27,6,"cellularagriculture, cultivatedmeat, alternativeprotein, futurefood",Informative,"vegan/vegetarian, sustainability, animal welfare",Positive,"minimize spcies extinction, prevent deforestation ",,N,N
+27,4/26/2023,0:56,"199,700","15,800",767,,Informative,safety,Positive,,,,
+28,7/23/2024,1:03,"25,100","1,907",33,"fyp, foryou, future",Entertainment,"politics, sustainability, animal welfare ",Negative,bypassing regulation,pet owners,N,Y
+29,7/3/2023,1:57,"4,000",80,26,"cultivatedmeat, health, healthcare, fakemeat, trending",Informative,"sustainability, health, economics",Neutral,framing,Nurses,N,N
+30,1/5/2023,1:56,"1,200",58,5,"labgrownmeat, cultivatedmeat, science, technology, future ",Informative ,"economics, politics, sustainability, health",Positive,"lower emissions (methane, reduce deforestation, water usage ",Upside Foods,N,Y
+31,1/11/2024,1:02,"30,200",3636,25,"sffoodie, cultivatedmeat, upsidefoods, whatieatinaday",Entertainment,"taste, economics",Positive,"real meat, taste",Upside Foods,N,N
+32,9/5/2024,1:18,389,23,6,"labgrownmeat, gmo",Informative,"sustainability, health",Negative,"sci-fi, scalability, energy-intensitive, food processing",,N,N
+33,7/31/2024,1:35,"4,148",444,61,"labgrown, labgrownmeat, ecofriendly, vegetarian, plantbased",Informative ,"animal welfare, vegan/vegetarian",Positive ,"cruelty-free, ethical, reduces animal suffering",Dr. Mark Post (Mosa Meat CO),N,N
+34,6/17/2024,0:18,"1,009",39,17,"cultivatedmeat, sustainability, labgrownmeat, animal welfare",Advertising/Informative,"animal welfare, health",Positive,"vitamin/mineral fortification, slaughter-free",Magic Valley Foods ,N,N
+35,11/18/2024,0:59,"1,947",101,8,"culturedmeat, labgrownmeat, vegetarianism, veganism, food",Informative,,Neutral,"real meat, bioreactors, growth process",,N,N
+36,1/8/2024,1:19,"2,163",36,2,"culturedmeat, cultivatedmeat, labgrownmeat, meatalternatives, veganlife",Entertainment ,"animal welfare, sustainability, vegan/vegetarian ",Negative,"manufactured, ""fake meat' , taste",vegans,N,N
+37,5/2/2024,0:51,"328,700","35,300",723,"business, tech, farmers, meat ",Entertainment/News,"animal welfare, sustainability, politics, economics ",Neutral,environmentally friendly,"Ron DeSeSantis, farmers, astronauts",N,N
+38,2/6/2024,0:33,"13,800",1262,81,,Entertainment,safety,Neutral,,vegans,Y,N
+39,2/24/2025,1:05,371,38,5,"cultivated meat, 3dbioprinting, cultured meat, ad",Informative,"economics, politics",Neutral,Nebraska ban,ranchers/farmers,N,N
+40,7/18/2024,1:39,"13,300",973,249,"vegan, cultivated meat, labgrownmeat, try, plantbased",Advertisting/News,"politics, economics ",Negative ,farm-grown,ranchers/farmers,N,N
+41,2/25/2025,0:57,"2,711",109,16,"vegetarian, meateater, labgrown, pork, cultivatedmeat",Informative,politics,Neutral / Negative leaning ,"Nebraska ban, scaling",ranchers/farmers,N,N
+42,8/8/2024,0:52,"10,800",694,21,"labgrown, tastetesting, cultivated meat, fyp",Advertising/Entertainment,"economics, taste",Positive,taste,Aleph Farms,N,N
+43,3/8/2025,1:50,"11,200",1685,140,,Informative ,"taste, sustainability, safety ",Positive ,,,N,N 
+44,8/11/2023,1:02,"18,700",2020,268,,News/Informative,"vegan/vegetarian, politics",Negative,,,N,N
+45,3/10/2025,0:47,"53,100",2247,414,"npr, meat, animals, science",News,"sustainability, health, politics ",Neutral ,energy use ,,N,N
+46,3/10/2025,1:05,"13,300",138,54,"labgrownmeat, stemresearch, culturedmeat, itsreal, stemtok",News/Informative ,"politics, sustainability, health, safety",Neutral,"safety, environmentally-friendly",,N,N
+47,3/12/2025,1:05,"6,097",110,15,,Entertainment,economics,Negative,"unnecessary, naturalness ",,N,N
+48,3/11/2025,0:25,"128,800","5,517",79,"florida, rondesantis, meats, cultivatedmeat",Entertainment,economics ,Negative ,loss of butcher jobs ,"Butchers, bodybuilders",N,N
+49,3/12/2025,2:59,"67,300",6056,1180,"science, stem, scienceeducation, labgrownmeat, cultivated meat, microbiology",News/Entertainment ,"economics, politics, health",Negative ,"taxes, ultra-processed, cancer, green lobby ","ranchers/farmers, Bill Gates, general practictioners",unclear ,N
+50,3/11/2025,3:13,"4,302",129,187,,Entertainment,"economics, politics, health",Negative ,health risks,"ranchers/farmers, Bill Gates",N,N
+51,3/22/2025,1:41,"18,600",2531,192,"cultivatedmeat, labgrownmeat, goodmeat",Entertainment,"economics, politics",Neutral,"scalability, money, technology ",food scientists ,N,N
+52,11/20/2022,0:57,"21,500",596,50,"labgrownmeat, labgrown, labgrownchicken, cellularagriculture, foodsystem, sustainability",News,"taste, animal welfare, sustainability, economics",Positive,"slaughter-free, taste",Steakholder Foods ,N,N
+53,9/17/2024,1:03,"11,000",251,8,,Entertainment,taste,Positive leaning,meat processing,,N,N
+54,8/30/2023,1:06,578,28,12,"cultivatedmeat, foodtech, futureoffood, innovations, meatrevolution, foodsustainability",Informative,"vegan/vegetarian, animal welfare, politics",Neutral,slaughter-free,vegans,N,N
+55,9/3/2023,0:58,"11,600",319,42,"notforme, culturedmeat, labgrownmeat, nothanks, realfood, safefood, healthyfood, nochemicals",Advertising/Informative,,Positive,"real meat, cell growth",Upside Foods,N,N
+56,5/14/2024,0:58,"14,600",193,12,"meat, labgrownmeat, petfood, foodnews, science, foodstandardsagency",Entertainment ,politics,Neutral,,"NASA, Ron DeSantis",N,N
+57,8/21/2024,2:48,"766,300","39,000",575,"news, meatalternative, plantbased, florida, alabama ",Entertainment,"animal welfare, economics, sustainability",Positive,"cost, eco-friendly, slaughter-free, food security ","XPRIZE, ASPIRE",Y,N
+58,8/11/2023,0:54,"98,100",2486,109,"culturedmeat, cellag, cultivatedmeat, labgrownmeat, sustainablediet ",Entertainment,animal welfare,Neutral,"protein content, slaughter free ",fitness influencers,N,N
+59,7/12/2023,0:40,"8,979",152,10,"meatalternative, labmeat, labchicken, labgrownmeat, foodnews",Entertainment ,"sustainability, health, economics",Negative,"expensive, high carbon footprint, nutrition",nutritionists,N,Y
+60,12/20/2023,1:32,544,36,4,"foodpolicy, gavinwren",Entertainment/Advertising,"vegan/vegetarian, sustainability, animal welfare, politics, taste",Positive,"delicious, sustainable, humane","Upside Foods, Bar Crenn",N,N
+61,12/29/2023,2:42,,212,17,"vegan, plantbased, cultivatedmeat, fakemeat, plantbasedmeat ",News,"sustainability, animal welfare",Neutral ,less pollution and land/water use ,Eat Just,N,Y
+62,2/26/2025,0:59,"306,500","13,700",212,"itvnews, dog, pet, food ",Entertainment,"animal welfare, taste",Positive,"taste, slaughter-free",Forged ,N,N
+63,7/7/2023,0:51,,621,23,"foodpolicy, labgrown, climatechange, gavinwren",Entertainment/Advertising,,Negative,"fake meat, source",cattle ranchers,N,N
+64,12/9/2024,1:02,"30,000",1884,295,"farming, agriculture, farmtok, agritok, backbritishfarming",Entertainment,"sustainability, health",Negative,"fake meat, energy intensive, genetic mutations, cancer ",farmers,Y,N
+65,11/11/2023,1:01,"10,700",305,43,"labgrownmeat, upsidefoods, tysonfoods, trending",Entertainment,"economics, politics, health",Negative ,"lack of approval process, no customer vote","consumers, Tyson Foods, Upside Foods, Bill Gates, USDA",N,N
+66,10/4/2023,2:43,"14,600",592,52,"mcdonaldssecrets, mcdonaldslife, fastfood, fastfoodsecrets",Entertainment,"economics, vegan/vegetarian, animal welfare",Positive leaning,"cost, real meat","fast food employees, chefs",N,N
+67,5/1/2024,1:05,"5,017",390,91,"labgrownmeat, florida, culturedmeat, breakingnews, veganfood",News,"economics, politics",Positive leaning,Florida ban,ranchers/farmers,N,N
+68,9/8/2023,0:38,"27,100",543,109,"labgrownmeat, labgrownchicken, cancercells, tumor, labmeat",Informative,safety,Neutral,"cancer, tumors, food safety, misinformation","FDA, WHO, USDA",N,N
+69,5/22/2023,0:58,859,59,25,"cultivatedmeat, veganmeat, labgrownmeat, wagyubeef, foodtech",Entertainment,"taste, sustainability, vegan/vegetarian",Neutral,"taste, carbon footprint ",vegans,N,N
+70,10/6/2023,2:05,488,37,7,"upsidefoods, labgrownmeat, cultivatedmeat, culturedmeat, theranos",Informative,"sustainability, animal welfare, safety",Negative,"antibiotics, plastic waste, bovine serum, contamination",Upside Foods,unclear ,Y
+71,8/4/2023,3:00,"80,800",3839,205,"labgrownmeat, cultivatedmeat, science, sciencenews, chicken",Entertainment,"sustainability, economics, health, politics",Negative,fake meat,"Upside Foods, farmers",N,N
+72,2/13/2024,1:02,"6,146",405,34,"food, labgrownmeat, gross, eatbeef, realbeef",Informative,"economics, politics",Negative,labeling,ranchers,N,Y
+73,7/18/2023,0:47,"4,552",275,37,"culturedmeat, cultivatedmeat, futurist, foodtech",Informative/News,"sustainability, animal welfare, politics",Neutral / Positive leaning,"guilt-free meat, taste",food creators,N,N
+74,1/31/2023,0:58,"16,400",557,31,"blueland, labgrownmeat, veganuary, meatalternative",Informative/News,"sustainability, animal welfare, health",Positive,"sterile, reduce animal suffering in factory farms",,N,N
+75,2/22/2024,1:48,"2,314",44,8,"meat, meatless, healthyeating, themoreyouknow, processedfoods",Informative,"sustainability, animal welfare, economics, politics",Negative,"weird, cost, antibiotics, labeling",health content creators ,N,N
+76,2/2/2024,2:30,"57,500",1811,682,"singapore, sgnews, news, singaporefatwacommittee",News,sustainability,Positive,"halal, sustainable",Muslims,N,N
+77,9/5/2023,1:36,,7351,278,"labgrownmeat, judaism, kosher, kosherfood, jewish",Entertainment,,Positive leaning,"kosher, parve",Jewish people,N,N
+78,11/28/2023,0:29,"4,953",350,81,"foodiesoftiktok, vegantravel, veganfoodie",Entertainment,"vegan/vegetarian, sustainability, animal welfare",Positive ,good for the environment and animals ,vegans,N,N
+79,4/4/2025,2:55,"1,010",74,7,"drreneehoenderkamp, labgrown, fakemeat, nofarmersnofood, netzero",Informative,sustainability,Negative,"high emissions, global warming potential ",doctors,N,Y
+80,2/11/2024,1:18,"17,100",687,63,"sg, sgfyp, islam, fatwa",Informative,sustainability ,Positive leaning,"halal, sustainable","Muslims, Singaporeans",N,N
+81,5/4/2023,0:58,"49,600","1,256",54,"labmeat, fetalbovineserum, merck, cellularmeat, cultivatedmeat",Entertainment,economics,Neutral,"cost, fetal bovine serum",Merck,N,N
+82,5/10/2024,0:45,"1,091",86,5,"vegetarian, cultivatedmeat, labmeatforfood, labmeats, food",Entertainment,"vegan/vegetarian, animal welfare",Positive,"taste, animal welfare","CIWF, Philip Lymbery, vegetarians",N,N
+83,6/13/2023,0:59,"303,100",3523,85,"climate, culturedmeat, meat",Informative,sustainability,Negative,"high emissions, bad for environment",,N,Y
+84,8/6/2023,0:54,,329,31,"news, foodtok, cultivatedmeat, science, yahoonews",News,"economics, sustainability, animal welfare",Neutral,high meat consumption ,professors,N,N
+85,4/5/2025,0:44,"1,010",74,7,"healthylifestyle, ucdavis, labgrownmeat, fakemeat, sustainability",Informative,sustainabilty,Negative,"energy intensive, high emissions, pharmaceuticals ",Bill Gates,N,Y
+86,10/3/2023,1:29,"20,900",2675,133,"labmeat, meat, chicken, organic, pastureraised",Informative,"food security, sustainability, economics",Negative,"time-consuming, inefficient, roller bottles","farmers/ranchers, Upside Foods",N,Y
+87,2/21/2023,0:39,729,26,0,"writer, writersoftiktok, vegans, veganrecipes, vegansoftiktok",Entertainment,"vegan/vegetarian, animal welfare, sustainability",Positive,"slaughter-free, speciesist",Vegans,N,Y
+88,3/12/2024,3:09,"3,194",153,51,"cultivatedmeat, labgrownmeat, agricultureindustry, farming, arizona",Entertainment ,"politics, economics, sustainability, cost",Negative leaning,state bans,farmers/ranchers,N,N
+89,7/18/2024,0:57,"34,300",1646,403,,Entertainment,"sustainability, health",Negative,ultra-processed,UK,Y,N
+90,6/27/2023,0:59,"8,088",543,62,"fakemeat, labgrownmeat, dietitian, usda, fda",Entertainment,"sustainability, health",Negative,"cancer, labeling, long-term health effects",dietitians ,Y,N
+91,6/23/2023,0:52,"9,300",197,42,"fyp, learnontiktok, fakemeat, fakechicken, labgrownmeat",News/Informative,"sustainability, animal welfare, economics, politics",Neutral,"cost, eco-friendly, slaughter-free",,N,N
+92,2/12/2024,1:56,"1,341",93,42,"florida, science, tallahassee, fyp, explore",News,"sustainability, economics, health, politics",Neutral,"health risks, safety","citizens of Florida, ranchers ",N,N
+93,7/20/2024,1:01,"159,800",4973,1436,"labgrownfood, uksupermarkets, food, uk, news",News,"politics, economics, animal welfare, sustainability",Neutral,"pet food, environmentally-friendly, animal welfare",UK,N,N
+94,5/5/2023,0:46,"94,300",1644,371,cultivatedmeat,News,"economics, animal welfare",Positive,"real meat, slaughter-free, activism, taste",chef Dominique Crenn,N,N
+95,1/13/2023,0:26,"7,400",159,100,"vegan, meat, cultivatedmeat, cellmeat, cellbased",Entertainment,"vegan/vegetarian, animal welfare",Positive,no animal suffering,vegans,N,N
+96,3/11/2025,1:23,"47,600",2312,1082,"lovelocaltrustlocal, supportsmallbusiness, supportlocal, supportbritishfarmers, community",Advertising/News,economics,Negative,cost,farmers,N,N
+97,10/12/2023,0:27,"2,200",53,12,"cultivatedmeat, sustainablefood, sanfrancisco, michelinstarrestaurant",Advertising,"economics, taste, animal welfare",Positive,taste,influencers,N,N
+98,9/28/2023,0:25,"1,847",12,3,"steakholderfoods, foodsecurity, STKH, 3Dbioprinting, 3Dprinting",Advertising,food security,Positive,food security,,N,N
+99,5/6/2024,1:28,"22,200",1886,209,"eatrep, repprovisions, grassfed, regenerativeagriculture, silvopasture, permaculture",Advertising/Informative,"politics, economics",Negative,"connection to nature, free market, health, consolidation",farmers,N,N
+100,5/11/2023,0:41,"4,000",256,99,"vegan, protein, meat, plantbasednews",Entertainment,"economics, animal welfare",Positive,"taste, animal welfare",vegans,N,N
