@@ -36,5 +36,5 @@ metadata_clean <- metadata |>
                                  "Y" = TRUE,
                                  "N" = FALSE,
                                  .default = NA))
-
+write_csv(metadata_clean, file = "output/tables/metadata_clean.csv")
          
